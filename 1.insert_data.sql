@@ -20,8 +20,7 @@ values
     ('Pandas',70),
     ('Excel',70),
     ('Docker',60),
-    ('Linux',60),
-    ('English',60)
+    ('Linux',60)
 
 insert into certifications
 values
